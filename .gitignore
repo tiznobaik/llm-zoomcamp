@@ -2,5 +2,4 @@
 __pycache__/
 .env
 
-# Ignore a specific folder (virtual env folder)
-01-intro/llm/
+/llm
