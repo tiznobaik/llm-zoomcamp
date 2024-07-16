@@ -4,3 +4,4 @@ __pycache__/
 
 /llm
 ollama_files/
+.venv
